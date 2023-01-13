@@ -1,0 +1,22 @@
+{
+  "name": "jeff",
+  "version": "1.0.0",
+  "description": "Your personal Jeff Goldblum in Slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bastuijnman/jeff.git"
+  },
+  "author": "Bas Tuijnman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bastuijnman/jeff/issues"
+  },
+  "homepage": "https://github.com/bastuijnman/jeff#readme",
+  "dependencies": {
+    "@slack/bolt": "^3.12.2"
+  }
+}
